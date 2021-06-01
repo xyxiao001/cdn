@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="55px" viewBox="0 0 66 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="70.069035%" x2="100%" y2="70.069035%" id="linearGradient-1">
+            <stop stop-color="#E6E6E7" offset="0%"></stop>
+            <stop stop-color="#B7B8B8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M95.3840003,21.6026129 C100.54402,21.318736 106.584352,19.7150512 113.504996,16.7915584 C117.168043,15.2441748 121.74654,12.7732753 126.437605,9.94839326 C129.218823,8.27358952 133.602122,5.21540449 139.587501,0.773838162 C140.403945,-0.089711962 141.543905,-0.230515212 143.00738,0.351428412 C145.202593,1.22434385 152.479878,5.76961713 153.841773,7.14100756 C155.203668,8.51239798 154.242225,10.8230049 153.483786,11.8578344 C153.156376,12.3045588 149.557597,17.8826529 145.354629,22.8247433 C140.610435,28.4032382 132.58343,35.1196797 130.25794,37.034691 C126.16601,40.4043442 111.979956,49.8183444 97.4015373,53.4115877 C95.2003661,53.8017971 93.7864423,53.0625454 93.159766,51.1938326 C92.5330897,49.3251197 91.4957181,40.8015808 90.047651,25.6232156 C89.9228305,24.3431385 90.043233,23.4103144 90.4088586,22.8247433 C90.7744842,22.2391723 92.4328647,21.8317955 95.3840003,21.6026129 Z" id="path-2"></path>
+        <filter x="-2.3%" y="-2.8%" width="104.6%" height="105.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="2" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.934760794   0 0 0 0 0.929348009   0 0 0 0 0.95099915  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-89.000000, 1.000000)" fill-rule="nonzero">
+            <g id="Path-4">
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="#000" stroke-width="1" xlink:href="#path-2"></use>
+                <!-- 302F31 -->
+            </g>
+        </g>
+    </g>
+</svg>

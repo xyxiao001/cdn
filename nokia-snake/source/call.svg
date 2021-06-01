@@ -1,0 +1,30 @@
+<svg width="45" height="44.00000000000001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+ <title>Path 5</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <path id="path-2" d="m15.0257,0.71145c4.27112,4.07341 7.8804,7.04678 10.82787,8.92011c4.4212,2.80999 14.86977,7.09289 16.21409,7.88228c0.73094,0.42921 0.8937,1.55189 0.93799,2.01632c0.03665,0.38441 -0.45636,1.47057 -1.47906,3.25847c-2.20128,3.46325 -3.88045,6.01154 -5.03753,7.64487c-1.15707,1.63333 -2.92537,3.87555 -5.30489,6.72666c-1.74899,1.73935 -3.52586,2.13645 -5.3306,1.19129c-2.70712,-1.41774 -6.17255,-4.58796 -11.79206,-10.29507c-5.61951,-5.70711 -10.35326,-12.83429 -13.00655,-16.75567c-1.76886,-2.61425 -1.31332,-4.79348 1.36661,-6.53766l8.35869,-4.34578c0.58913,-0.27818 1.31562,-0.41727 2.1795,-0.41727c0.86387,0 1.55252,0.23715 2.06594,0.71145z"/>
+  <filter id="filter-3" filterUnits="objectBoundingBox" height="105.1%" width="104.7%" y="-2.6%" x="-2.3%"/>
+  <linearGradient id="linearGradient-1" y2="33.0950636%" x2="100%" y1="33.0950636%" x1="0%">
+   <stop offset="0%" stop-color="#EAEAEB"/>
+   <stop offset="100%" stop-color="#D0D0D3"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="46" width="47" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g fill-rule="nonzero" id="Group-2">
+    <g id="Path-5">
+     <use id="svg_1" x="1" y="1" xlink:href="#path-2" fill="url(#linearGradient-1)"/>
+     <use id="svg_2" x="1" y="1" xlink:href="#path-2" filter="url(#filter-3)" fill="black"/>
+     <use id="svg_3" x="1" y="1" xlink:href="#path-2" stroke="#666"/>
+     <!-- 302F31 -->
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
